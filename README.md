@@ -6,8 +6,8 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-OneVision-jupyter/blob/main/LLaVA_OneVision_Qwen2_7b_si_jupyter.ipynb) | LLaVA_OneVision_Qwen2_7b_si_jupyter (4bit)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-OneVision-jupyter/blob/main/LLaVA_OneVision_Qwen2_0.5b_si_jupyter.ipynb) | LLaVA_OneVision_Qwen2_0.5b_si_jupyter (16bit)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LLaVA-OneVision-jupyter/blob/main/LLaVA_OneVision_Qwen2_7b_si_jupyter.ipynb) | LLaVA_OneVision_Qwen2_7b_si_jupyter (Pro Colab 😭 16bit)
 
 ### 🧬 Code
 https://github.com/LLaVA-VL/LLaVA-NeXT
